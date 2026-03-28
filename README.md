@@ -1,4 +1,4 @@
-<h1 align="center">Opa galera 👋, Me chamo Vitor</h1>
+<h1 align="center">Opa galera 👋, Me chamo Dukezaum</h1>
 <h3 align="center">Sou um desenvolvedor completamente fascinado por automação com o objetivo de praticidade e rapidez.</h3>
 
 <p align="left">
